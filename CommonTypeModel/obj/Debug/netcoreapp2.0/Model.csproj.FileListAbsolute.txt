@@ -1,0 +1,17 @@
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\bin\Debug\netcoreapp2.0\Model.deps.json
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.dll
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\bin\Debug\netcoreapp2.0\Model.deps.json
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.dll
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\Model.pdb

@@ -1,0 +1,8 @@
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\bin\Debug\netcoreapp2.0\CommonTypeModel.deps.json
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\bin\Debug\netcoreapp2.0\CommonTypeModel.dll
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\bin\Debug\netcoreapp2.0\CommonTypeModel.pdb
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\obj\Debug\netcoreapp2.0\CommonTypeModel.csproj.CoreCompileInputs.cache
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\obj\Debug\netcoreapp2.0\CommonTypeModel.AssemblyInfoInputs.cache
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\obj\Debug\netcoreapp2.0\CommonTypeModel.AssemblyInfo.cs
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\obj\Debug\netcoreapp2.0\CommonTypeModel.dll
+C:\Users\ranbi\source\repos\RepositoryLibrary\CommonTypeModel\obj\Debug\netcoreapp2.0\CommonTypeModel.pdb

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\bin\Release\netcoreapp2.0\Repository.dll.config
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\bin\Release\netcoreapp2.0\Repository.deps.json
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\bin\Release\netcoreapp2.0\Repository.dll
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\bin\Release\netcoreapp2.0\Repository.pdb
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\bin\Release\netcoreapp2.0\BusinessModel.dll
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\bin\Release\netcoreapp2.0\BusinessModel.pdb
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\obj\Release\netcoreapp2.0\Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\obj\Release\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\obj\Release\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\obj\Release\netcoreapp2.0\Repository.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\obj\Release\netcoreapp2.0\Repository.csproj.CopyComplete
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\obj\Release\netcoreapp2.0\Repository.dll
+C:\Users\Administrator\source\repos\TenantPortalAPI\RepositoryLibrary\obj\Release\netcoreapp2.0\Repository.pdb

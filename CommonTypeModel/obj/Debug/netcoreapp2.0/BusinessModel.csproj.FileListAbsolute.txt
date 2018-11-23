@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\bin\Debug\netcoreapp2.0\BusinessModel.deps.json
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\bin\Debug\netcoreapp2.0\BusinessModel.dll
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\bin\Debug\netcoreapp2.0\BusinessModel.pdb
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\BusinessModel.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\BusinessModel.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\BusinessModel.dll
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\BusinessModel.pdb
+C:\Users\Administrator\source\repos\TenantPortalAPI\CommonTypeModel\obj\Debug\netcoreapp2.0\BusinessModel.csprojAssemblyReference.cache

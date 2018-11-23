@@ -1,0 +1,14 @@
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\bin\Debug\netcoreapp2.0\ConsoleAppClient.deps.json
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\bin\Debug\netcoreapp2.0\ConsoleAppClient.runtimeconfig.json
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\bin\Debug\netcoreapp2.0\ConsoleAppClient.runtimeconfig.dev.json
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\bin\Debug\netcoreapp2.0\ConsoleAppClient.dll
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\bin\Debug\netcoreapp2.0\ConsoleAppClient.pdb
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\obj\Debug\netcoreapp2.0\ConsoleAppClient.csprojAssemblyReference.cache
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\obj\Debug\netcoreapp2.0\ConsoleAppClient.csproj.CoreCompileInputs.cache
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\obj\Debug\netcoreapp2.0\ConsoleAppClient.AssemblyInfoInputs.cache
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\obj\Debug\netcoreapp2.0\ConsoleAppClient.AssemblyInfo.cs
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\obj\Debug\netcoreapp2.0\ConsoleAppClient.dll
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\obj\Debug\netcoreapp2.0\ConsoleAppClient.pdb
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\obj\Debug\netcoreapp2.0\ConsoleAppClient.csproj.CopyComplete
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\ranbi\source\repos\RepositoryLibrary\ConsoleAppClient\bin\Debug\netcoreapp2.0\Model.pdb

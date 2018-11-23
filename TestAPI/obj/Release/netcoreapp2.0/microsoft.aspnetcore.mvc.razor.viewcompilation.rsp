@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\TenantPortalAPI\TestAPI
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=TenantWebAPI
+--content-root=C:\Users\Administrator\source\repos\TenantPortalAPI\TestAPI
+--file=
