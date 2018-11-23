@@ -248,7 +248,7 @@ namespace UnitTestTenant
 		[TestMethod]
 		public void is_remove_all_racks_returns_value_as_true()
 		{
-			// 1. Arrange code
+			// 1. Arrange
 			// Create the instance of rack service
 			IRackService rackservice = new RackService(rackRepo);
 
