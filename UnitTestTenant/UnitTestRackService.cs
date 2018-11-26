@@ -148,7 +148,7 @@ namespace UnitTestTenant
 			Assert.IsInstanceOfType(rackmodel, typeof(Rack));
 			// Compare actual id with the expected id
 			Assert.AreEqual("4", rackmodel.Id);
-			// Compare actual id with the expected id
+			// Compare actual id with the expected id id
 			Assert.AreEqual("Rack4", rackmodel.Name);
 		}
 
