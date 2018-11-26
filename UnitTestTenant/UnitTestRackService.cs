@@ -215,7 +215,7 @@ namespace UnitTestTenant
 		[TestMethod]
 		public void is_remove_rack_by_name_returns_value_as_true_with_existing_rack_name_deleted_with_name_as_Rack5()
 		{
-			// 1. Arrange
+			// 1. Arrange to
 			// Create the instance of rack service
 			IRackService rackservice = new RackService(rackRepo);
 
